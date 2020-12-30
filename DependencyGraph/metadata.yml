@@ -1,0 +1,12 @@
+---
+:id: 48936109
+:submitters:
+- :name: Alejandro Serrano
+  :email: u1214728@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-13 00:29:54.464220000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-12 17:29:54.464220000 Z
+:status: processed
+:score: 140.5
